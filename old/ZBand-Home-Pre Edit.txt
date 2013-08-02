@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Zband</title>
+	<link rel="stylesheet" type="text/css" media="all" href="css/reset.css"></link>
+	<link rel="stylesheet" type="text/css" media="all" href="css/zband.css"></link>
+	<!--<link rel="stylesheet" type="text/css" media="all" href="css/jquery.mobile-1.0.css"></link>
+	<script rel="javascript" type="text/javascript" media="all" src="js/jquery-1.7.1.js"></script>
+	<script rel="javascript" type="text/javascript" media="all" src="js/underscore.js"></script>
+	<script rel="javascript" type="text/javascript" media="all" src="js/backbone.js"></script>
+	<script rel="javascript" type="text/javascript" media="all" src="js/backbone-localStorage.js"></script>
+	<script rel="javascript" type="text/javascript" media="all" src="js/jquery.mobile-1.0.js"></script>
+	<script rel="javascript" type="text/javascript" media="all" src="js/zband.js"></script>-->
+	
+	
+</head>
+
+<body class="home blog">
+	  <div id="page-wrapper">
+		<div id="page-header">
+		  
+		  <div class="logo"></div>
+		  
+		  <div class="menu-main-menu-container">
+			<ul id="menu-main-menu" class="menu horizontal"><li id="menu-item-1785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1785 item-products"><a href="http://zband.com/products/">Z Alarm</a></li>
+			<li id="menu-item-1787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1787 item-developer"><a href="http://developer.zband.com/">Z Ring</a></li>
+			<li id="menu-item-1788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1788 item-support"><a href="http://support.zband.com/">Z Support</a></li>
+			<li id="menu-item-1783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1783 item-about-us"><a href="http://zband.com/about-zband/">About Z</a></li>
+			</ul>
+			
+			<div class="social">
+			
+			<!--Twitter-->
+			<iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/follow_button.html#_=1324312155414&amp;_version=2&amp;enableNewSizing=false&amp;id=twitter-widget-0&amp;lang=en&amp;preview=true&amp;screen_name=twitter&amp;show_count=false&amp;size=m" class="twitter-follow-button" style="width: 300px; height: 20px;" title="Twitter Follow Button"></iframe>
+			
+			<!--Facebook-->
+			<iframe scrolling="no" id="fd7aeb3e4b97ae" name="f37cfd420e844dc" style="border: medium none; top: 0px; overflow: hidden; height: 38px; width: 280px; left: 140px; position: absolute;" title="Like this content on Facebook." class="fb_ltr" src="http://www.facebook.com/plugins/like.php?api_key=113869198637480&amp;channel_url=https%3A%2F%2Fs-static.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%3Fversion%3D3%23cb%3Df274ef87f399594%26origin%3Dhttp%253A%252F%252Fdevelopers.facebook.com%252Ff30dba296dee414%26relation%3Dparent.parent%26transport%3Dpostmessage&amp;extended_social_context=false&amp;href=http%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Freference%2Fplugins%2Flike%2F&amp;layout=standard&amp;locale=en_US&amp;node_type=link&amp;sdk=joey&amp;send=true&amp;show_faces=true&amp;width=450"></iframe>
+			
+			</div>
+			
+		  </div>  
+		  
+		
+			
+		    
+		  </div>
+				<div id="page-body">
+				<div class="home-main">
+					<div class="buynow"><a href="http://www.zband.co.uk"></a></div>
+					<div class="dummy-image"></div>
+					<div class="dummy-android"></div>
+					<div class="mobile-platforms-promo zband-promo">
+				
+			  <ul class="promo-images">
+					<li id="mobile-platforms-promo-0" class="promo-image 0 first selected last">
+						
+					<h2>Feel the</h2><div class="logoSlogan"></div>
+					<h3>Simplifying Enterprise Mobility</h3>
+					<div class="promo_content"><p>Z Band is the worlds first silent alarm and phone call vibrating wristband for Android</p>
+			</div>
+					
+				  </li>
+				</ul>
+	  
+	  <ul class="promo-icons">
+		
+			<li class="promo-icon 0 first selected last">
+			<a href="#mobile-platforms-promo-0"></a>
+		  </li>
+		
+	  </ul>
+	  
+	</div>
+			<div class="content-inset clearfix">
+
+				<div class="fp-main">
+					<div class="fp-block fp-simple">
+						<h2>Z Future</h2>
+						<p>Find out about <a href="http://developer.zband.com/">upcoming and exciting</a> developments with Z Band.</p>
+					</div>
+					<div class="fp-block fp-secure">
+						<h2>Z <span class="color1">C</span><span class="color2">o</span><span class="color3">l</span><span class="color4">o</span><span class="color5">r</span><span class="color6">s</span></h2>
+						<p>Discover the many <a href="http://zband.com/products/mobile-app-manager/">colors</a> of Z Band.</p>
+					</div>
+					<div class="fp-block fp-scalable">
+						<h2>Z Band App</h2>
+						<p>Check out Andoid and the Z Band app <a href="http://zband.com/products/cloud-based-server/">here</a>.</p>
+					</div>
+				</div>
+
+				<div class="fp-group">
+
+					<div class="fp-sub">
+						<div class="fp-block fp-developer">
+							<h2>Twitter</h2>
+							<p>Build apps and deploy across all platforms from a single code base.</p>
+							<p><a href="https://apps.zband.com/" class="button track_button">Sign Up</a></p>
+						</div>
+					</div>
+
+					<div class="fp-sub">
+						<div class="fp-block fp-enterprise">
+							<h2>Facebook</h2>
+							<p>Secure app development, distribution, integration &amp; management from cloud platform.</p>
+							<p><a href="http://zband.com/contact-zband/" class="button track_button">Try a Demo</a></p>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+
+		
+
+		</div>
+
+		</div><!-- end of #page-body -->
+
+		
+		<div id="fh-footer">
+			<p><a href="mailto:info@zband.com">info@zband.com</a></p>
+			<p><a href="http://zband.com/">www.zband.com</a></p>
+		</div>
+
+	
+
+	
+
+	
+
+		
+	 
+		
+	</div><!-- end of #page-wrapper -->
+
+	<div id="wp_footer">
+		</div>
+
+
+
+
+
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.908 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2011-12-06 10:59:45 -->
+<!-- super cache -->
